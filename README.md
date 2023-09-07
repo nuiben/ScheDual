@@ -6,9 +6,8 @@ ScheDual is a GUI-based scheduling desktop application designed to help global c
 departments and languages.
 
 ### Author
-
-- Benjamin Porter
-- 2023-06-07
+Benjamin Porter
+2023-06-07
 
 ### Dependencies
 
