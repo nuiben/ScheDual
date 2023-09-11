@@ -1,4 +1,14 @@
-# ScheDual - Coordinator
+<p align="center">
+  <img src="logo.png">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/nuiben/ScheDual?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/nuiben/ScheDual?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/nuiben/ScheDual?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/nuiben/ScheDual?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/nuiben/ScheDual?color=tomato&style=for-the-badge">
+</p>
 
 ### Purpose of the Application
 
