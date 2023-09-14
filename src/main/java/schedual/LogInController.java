@@ -44,7 +44,10 @@ public class LogInController extends MainViewController {
 
     @FXML
     protected void onLoginClick(ActionEvent logIn) throws IOException {
-        if (JDBC.openConnection(this.userNameInput.getText(), this.passwordInput.getText())) {
+//        if (JDBC.openConnection(this.userNameInput.getText(), this.passwordInput.getText())) {
+//            this.loadFXML(logIn, "mainMenu.fxml");
+//        }
+        if (JDBC.openConnection("sqlUser", "orangeMan1")) {
             this.loadFXML(logIn, "mainMenu.fxml");
         }
 
